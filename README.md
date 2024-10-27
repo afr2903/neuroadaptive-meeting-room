@@ -1,6 +1,6 @@
 # Symbiosis Project
 Designing an adaptive room for captivating the collective consciousness from internal states.
-### Longevity, AI, and Cognitive Research Hackathon at MIT Media lab
+### Longevity, AI, and Cognitive Research Hackathon at MIT Media lab by *ekkolapto* and *Augmentation lab*
 
 Recorded demo (no audio capturing):
 
