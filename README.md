@@ -1,5 +1,8 @@
 # Symbiosis Project
 Designing an adaptive room for captivating the collective consciousness from internal states.
+
+**[Research paper](https://arxiv.org/abs/2410.21571)**
+
 ## Longevity, AI, and Cognitive Research Hackathon at MIT Media lab by *ekkolapto* and *Augmentation lab*
 
 For **demo** purposes as a workflow showcasing, multimodal language models (MMLMs) were implemented via API requests.
